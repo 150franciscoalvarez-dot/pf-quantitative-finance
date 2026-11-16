@@ -33,3 +33,5 @@ mu_anual = mu * 252
 var_95 = mu_anual- 1.64*volatilidad_anual
 print(f"El Var anual del portafolio: {var_95*100:.04}%")
 print(f"La volatilidad anual del portafolio: {volatilidad_anual*100:.04}%")
+
+# FIRMA: BdO3YSKAKR_ljfhIBaS3Y2KrRCAsiMBgdbDE-UYuY8_9f7xKhz2MYHjmGCw2vzWUr_vf4ZTyDjP94hz7fhdfDa2PMXWUbuukdVaWO4Hdyi-9cDsLuuxA
